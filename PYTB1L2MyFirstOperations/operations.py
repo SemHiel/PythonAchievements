@@ -18,5 +18,45 @@ som4 += som1
 print("Optellen bij waarde: ", som4)
 som2 /= som3
 print("Delen door waarde:", som2)
-test = g < e
-print("Is variable E groter dan variable G?", test)
+som8 = a == c
+print(som8)
+print(c ** f)
+print(a // b)
+print(e % d)
+
+x = 5
+x += 3
+print(x)
+
+x = 5
+x -= 3
+print(x)
+
+x = 5
+x *= 3
+print(x)
+
+x = 5
+x /= 3
+print(x)
+
+x = 5
+x%=3
+print(x)
+
+x = 5
+x//=3
+print(x)
+
+x = 5
+x **= 3
+print(x)
+
+x = 5
+print(x > 3 and x < 10)
+
+x = 5
+print(x > 3 or x < 4)
+
+x = 5
+print(not(x > 3 and x < 10))
