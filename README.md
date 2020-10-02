@@ -1,6 +1,5 @@
-# Naam
+# Python Achievements
 
-Python Achievements
 
 ## Gebruik
 
