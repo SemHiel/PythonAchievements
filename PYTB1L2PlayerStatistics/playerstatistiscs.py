@@ -6,7 +6,7 @@ class statistics:
     strengt = 1000
     lives = 21
     level = 1000
-    height = 1.92
+    height = 1.90
     print('Welkom bij de player statistics')
     time.sleep(1)
     playerstat = input('Wil je de speler statistiscs zien? (ja/nee): ').lower()
